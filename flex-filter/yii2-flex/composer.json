@@ -1,0 +1,21 @@
+{
+    "name": "flex-filter/yii2-flex",
+    "description": "Common filter for flex",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Ramakrishnan",
+            "email": "rams.nellai@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "filter\\flex\\": ""
+        }
+    }
+}
